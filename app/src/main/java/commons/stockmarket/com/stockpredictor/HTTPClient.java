@@ -4,6 +4,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.util.Base64;
 import android.util.Log;
+import android.widget.Toast;
 
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
@@ -64,6 +65,7 @@ public class HTTPClient {
             @Override
             public void onFailure(int statusCode, Header[] headers, byte[] responseBody, Throwable error) {
                 Log.e("http", "Unable to establish connection with Databricks");
+                Toast.makeText(context, "Unable to establish connection with Databricks", Toast.LENGTH_SHORT).show();
             }
         });
     }
