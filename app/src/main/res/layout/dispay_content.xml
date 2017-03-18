@@ -32,7 +32,7 @@
             android:padding="10dp"
             android:textColor="#000000"
             android:textAlignment="center"
-            android:textSize="20dp" />
+            android:textSize="22dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -51,7 +51,7 @@
             android:layout_marginTop="10dp"
             android:textAlignment="center"
             android:layout_marginBottom="5dp"
-            android:textSize="20dp" />
+            android:textSize="22dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -70,7 +70,7 @@
             android:layout_marginTop="10dp"
             android:textAlignment="center"
             android:layout_marginBottom="5dp"
-            android:textSize="20dp" />
+            android:textSize="22dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -88,7 +88,7 @@
             android:textColor="#000000"
             android:padding="10dp"
             android:layout_marginTop="40dp"
-            android:textSize="20dp"
+            android:textSize="22dp"
             android:textAlignment="center"/>
 
         <TextView
