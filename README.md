@@ -7,7 +7,7 @@ The Android app has two views. In the first one the user can click on a stock in
 
 <p align="center">
   <img src="images/stock_market_indices.png" width="350"/>
-  <img src="images/stock_market_direction_result.png" width="350"/>
+  <img src="images/stock_market_direction.png" width="350"/>
 </p>
 
 
