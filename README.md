@@ -9,7 +9,7 @@ risks.
 
 <br>
 <p align="center">
-  <img src="images/view1.png" width="300"/>
-  <img src="images/view2.png" width="300"/>
+  <img src="images/view1.png" width="250"/>
+  <img src="images/view2.png" width="250"/>
 </p>
 
